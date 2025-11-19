@@ -1,0 +1,12 @@
+[
+  {
+    "title": "New Subsidy for Wheat Farmers",
+    "description": "Government announces 20% subsidy on wheat seeds.",
+    "date": "2023-10-01"
+  },
+  {
+    "title": "Drought Alert in Southern India",
+    "description": "Farmers advised to use water-saving techniques.",
+    "date": "2023-10-02"
+  }
+]

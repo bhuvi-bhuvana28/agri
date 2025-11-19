@@ -1,0 +1,62 @@
+{
+  "en": {
+    "home": "Home",
+    "news": "News",
+    "schemes": "Schemes",
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "chatbot": "Chat with AI",
+    "welcome": "Welcome to Agricultural Portal",
+    "newsTitle": "Latest News",
+    "schemesTitle": "Government Schemes",
+    "dashboardTitle": "Farmer Dashboard",
+    "weather": "Weather",
+    "crops": "Recommended Crops",
+    "schemesSuggest": "Suggested Schemes"
+  },
+  "hi": {
+    "home": "घर",
+    "news": "समाचार",
+    "schemes": "योजनाएं",
+    "dashboard": "डैशबोर्ड",
+    "login": "लॉगिन",
+    "chatbot": "एआई से बात करें",
+    "welcome": "कृषि पोर्टल में आपका स्वागत है",
+    "newsTitle": "ताजा समाचार",
+    "schemesTitle": "सरकारी योजनाएं",
+    "dashboardTitle": "किसान डैशबोर्ड",
+    "weather": "मौसम",
+    "crops": "अनुशंसित फसलें",
+    "schemesSuggest": "सुझाई गई योजनाएं"
+  },
+  "te": {
+    "home": "హోమ్",
+    "news": "వార్తలు",
+    "schemes": "పథకాలు",
+    "dashboard": "డ్యాష్‌బోర్డ్",
+    "login": "లాగిన్",
+    "chatbot": "AIతో మాట్లాడండి",
+    "welcome": "వ్యవసాయ పోర్టల్‌కు స్వాగతం",
+    "newsTitle": "తాజా వార్తలు",
+    "schemesTitle": "ప్రభుత్వ పథకాలు",
+    "dashboardTitle": "రైతు డ్యాష్‌బోర్డ్",
+    "weather": "వాతావరణం",
+    "crops": "సిఫార్సు చేసిన పంటలు",
+    "schemesSuggest": "సూచించిన పథకాలు"
+  },
+  "ta": {
+    "home": "முகப்பு",
+    "news": "செய்திகள்",
+    "schemes": "திட்டங்கள்",
+    "dashboard": "டாஷ்போர்ட்",
+    "login": "உள்நுழைவு",
+    "chatbot": "AIயுடன் பேசு",
+    "welcome": "விவசாய போர்ட்டலுக்கு வரவேற்கிறோம்",
+    "newsTitle": "சமீபத்திய செய்திகள்",
+    "schemesTitle": "அரசு திட்டங்கள்",
+    "dashboardTitle": "விவசாயி டாஷ்போர்ட்",
+    "weather": "வானிலை",
+    "crops": "பரிந்துரைக்கப்பட்ட பயிர்கள்",
+    "schemesSuggest": "பரிந்துரைக்கப்பட்ட திட்டங்கள்"
+  }
+}

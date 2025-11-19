@@ -1,0 +1,16 @@
+[
+  {
+    "name": "PM Kisan Samman Nidhi",
+    "description": "Direct income support to farmers.",
+    "eligibility": "Small and marginal farmers.",
+    "image": "images/pm-kisan.jpg",
+    "applyLink": "https://pmkisan.gov.in"
+  },
+  {
+    "name": "Pradhan Mantri Fasal Bima Yojana",
+    "description": "Crop insurance scheme.",
+    "eligibility": "All farmers.",
+    "image": "images/fasal-bima.jpg",
+    "applyLink": "https://pmfby.gov.in"
+  }
+]
